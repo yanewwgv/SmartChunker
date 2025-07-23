@@ -22,11 +22,11 @@ RAG（Retrieval-Augmented Generation）系统中的文本预处理
 # 安装与依赖
 
 ## 克隆仓库
-git clone https://github.com/yanewwgv/SmartChunker.git
-cd SmartChunker
+    git clone https://github.com/yanewwgv/SmartChunker.git
+    cd SmartChunker
 
 ## 安装依赖（需事先 pip 已配置）
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 主要依赖：
 
